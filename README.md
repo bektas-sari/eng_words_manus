@@ -1,4 +1,4 @@
-# 📘 English-Turkish Vocabulary App
+# 📘 English-Turkish Vocabulary (Flutter) App
 
 An interactive Flutter application designed to help users effectively learn and review English-Turkish vocabulary using engaging flashcards. 
 The app supports audio pronunciation, smart word navigation, and a modern, clean UI.
@@ -25,7 +25,7 @@ The app supports audio pronunciation, smart word navigation, and a modern, clean
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/english_turkish_vocabulary_app.git
+   git clone https://github.com/bektas-sari/english_turkish_vocabulary_app.git
    ```
 3. Navigate to the project directory:
 
