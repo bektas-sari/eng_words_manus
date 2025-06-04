@@ -25,12 +25,12 @@ The app supports audio pronunciation, smart word navigation, and a modern, clean
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/bektas-sari/english_turkish_vocabulary_app.git
+   git clone https://github.com/bektas-sari/eng_words_manus.git
    ```
 3. Navigate to the project directory:
 
    ```bash
-   cd english_turkish_vocabulary_app
+   cd eng_words_manus
    ```
 4. Get the dependencies:
 
