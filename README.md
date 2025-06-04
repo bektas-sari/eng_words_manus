@@ -1,6 +1,7 @@
 # 📘 English-Turkish Vocabulary App
 
-An interactive Flutter application designed to help users effectively learn and review English-Turkish vocabulary using engaging flashcards. The app supports audio pronunciation, smart word navigation, and a modern, clean UI.
+An interactive Flutter application designed to help users effectively learn and review English-Turkish vocabulary using engaging flashcards. 
+The app supports audio pronunciation, smart word navigation, and a modern, clean UI.
 
 ## 🚀 Features
 
